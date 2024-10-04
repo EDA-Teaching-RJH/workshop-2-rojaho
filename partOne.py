@@ -1,8 +1,8 @@
 def main():
     slow = input("Input ")
-    replace(slow)
+    myFunction(slow)
 
-def replace(text):
+def myFunction(text):
   #Your code goes here.
 
 main()
