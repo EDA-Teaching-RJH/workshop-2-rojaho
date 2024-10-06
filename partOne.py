@@ -3,6 +3,7 @@ def main():
     replace(slow)
 
 def replace(text):
-  #Your code goes here.
+    print(text)
+    
 
 main()
